@@ -5,10 +5,10 @@ Please read the data section of “Kwon, Lowry, and Verardo (2024), Firms’ Tra
 Variable description:
 gvkey: Compustat gvkey
 year: year of datadate in Compustat
-lobbying: total lobbying amount (in $)
-elobbying: total environmental lobbying amount (in $)
-green_lobbying: total green lobbying amount (in $)
-brown_lobbying: total brown lobbying amount (in $)
+lobbying: total lobbying amount (in dollars)
+elobbying: total environmental lobbying amount (in dollars)
+green_lobbying: total green lobbying amount (in dollars)
+brown_lobbying: total brown lobbying amount (in dollars)
 
 Please contact Sungjoung Kwon (skwon@wayne.edu) for any questions regarding the data.
 
